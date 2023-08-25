@@ -1,0 +1,6 @@
+train: train_data/images/train
+val: train_data/images/validation
+
+nc: 1
+
+names: ['boat']
